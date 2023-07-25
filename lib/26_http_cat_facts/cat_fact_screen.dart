@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_topics/26_http_parse/cat_fact_response.dart';
+import 'package:flutter_topics/26_http_cat_facts/cat_fact_response.dart';
 import 'package:http/http.dart' as http;
 
 class CatFactScreen extends StatefulWidget {

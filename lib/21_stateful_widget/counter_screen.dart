@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//TODO: RAFAEL RENTERIA - seccion de componentes buttons, text, images , textfield, forms - agregar carpeta provider al repo
 class CounterScreen extends StatefulWidget {
    
   const CounterScreen({super.key});

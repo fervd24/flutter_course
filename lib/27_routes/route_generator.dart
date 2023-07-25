@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_topics/23_routes/screen1.dart';
-import 'package:flutter_topics/23_routes/screen2.dart';
+import 'package:flutter_topics/24_routes/screen1.dart';
+import 'package:flutter_topics/24_routes/screen2.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
